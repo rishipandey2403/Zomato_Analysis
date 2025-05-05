@@ -11,7 +11,7 @@ This project demonstrates my SQL problem-solving skills through the analysis of 
 - **Data Cleaning:** Handling null values and ensuring data integrity.
 - **Business Problems:** Solving 20 specific business problems using SQL queries.
 
-![ERD](https://github.com/najirh/zomato_sqlp3/blob/main/erd.png)
+![ERD](https://github.com/rishipandey2403/Zomato_Analysis/blob/856cb02a04123e7ec9e50de10a4962c9257e2979/Project_ERD.png)
 
 ## Database Setup
 ```sql
